@@ -6,8 +6,8 @@ class HelloWorld
 	}
 	public static void main(String args[])
 	{
-		
-		MyMethod();	
+		HelloWorld obj=new HelloWorld();
+		obj.MyMethod();	
 	}
 
 }
